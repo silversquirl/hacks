@@ -11,5 +11,6 @@ in my spare time.
   - A quine written in shell script
   - A random colour generator
   - A gradient generator
+  - A solid colour window made with GLFW
 
 [jargonfile_hackvalue]: http://www.outpost9.com/reference/jargon/jargon_23.html#TAG830
