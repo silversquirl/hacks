@@ -43,11 +43,7 @@ int main(int argc, char *argv[]) {
   while (!paint()) {
     usleep(10000);
     step();
-    // int i = r, j = g, k = b;
-    // newtarget();
     if (r == tr && g == tg && b == tb) {
-      paint();
-      // step();
       newtarget();
     }
   }
