@@ -9,5 +9,7 @@ in my spare time.
   - A polyglot written in Tcl, Python, shell script and C
   - A single-line quine written in C
   - A quine written in shell script
+  - A random colour generator
+  - A gradient generator
 
 [jargonfile_hackvalue]: http://www.outpost9.com/reference/jargon/jargon_23.html#TAG830
